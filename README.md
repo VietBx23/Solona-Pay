@@ -1,31 +1,27 @@
 # Solona Private Payment
 
-## Giới Thiệu
+## Introduction
 
-Solona Private Payment là một dự án blockchain xây dựng trên nền tảng Solana, tập trung vào việc cải thiện tính bảo mật và quyền riêng tư trong quá trình giao dịch. Dự án này nhằm mục tiêu mang đến trải nghiệm thanh toán an toàn và riêng tư cho người dùng trên mạng blockchain Solana.
+Solona Private Payment is a blockchain project built on the Solana platform, focusing on improving security and privacy in transactions. This project aims to provide a secure and private payment experience for users on the Solana blockchain network.
 
-## Tính Năng
+## Features
 
-- **Bảo mật Giao Dịch:** Sử dụng các công nghệ mã hóa và phương pháp bảo mật tiên tiến để đảm bảo tính toàn vẹn và an toàn của giao dịch.
+- **Transaction Security:** Utilizes advanced encryption technologies and security methods to ensure the integrity and safety of transactions.
 
-- **Quyền Riêng Tư:** Che giấu thông tin nhận diện và chi tiết cá nhân trong quá trình giao dịch, giúp người dùng duy trì quyền riêng tư.
+- **Privacy:** Conceals identification information and personal details during transactions, helping users maintain their privacy.
 
-- **Khả năng Mở Rộng và Tính Tương Thích:** Tương thích với hạ tầng tổng thể của blockchain Solana, đảm bảo tính mở rộng và hiệu suất.
+- **Scalability and Compatibility:** Compatible with the overall infrastructure of the Solana blockchain, ensuring scalability and performance.
 
-- **Tích hợp với Ví và Ứng Dụng Khác:** Dễ dàng tích hợp với các ví tiền điện tử và ứng dụng khác để tạo ra trải nghiệm thanh toán riêng tư toàn diện.
+- **Integration with Wallets and Other Apps:** Easily integrates with cryptocurrency wallets and other applications to create a comprehensive private payment experience.
 
-- **Thanh Toán Bằng Thẻ Tín Dụng:** Kết nối với thẻ tín dụng để mở rộng các tùy chọn thanh toán và thuận lợi cho người dùng.
+- **Credit Card Payments:** Connects with credit cards to expand payment options and convenience for users.
 
-- **Mua Sắm Thanh Toán Riêng Tư:** Hỗ trợ thanh toán riêng tư trong quá trình mua sắm trực tuyến, đảm bảo sự an toàn và bảo mật cho người dùng.
+- **Private Shopping Payments:** Supports private payments during online shopping, ensuring safety and security for users.
 
-## Kết Nối với Thẻ Tín Dụng
+## Connecting with Credit Cards
 
-Để kết nối với thẻ tín dụng, bạn cần cung cấp thông tin tài khoản và thực hiện các bước xác minh tài khoản. Sau đó, người dùng có thể dễ dàng thực hiện thanh toán bằng thẻ tín dụng qua ứng dụng của chúng tôi.
+To connect with credit cards, users need to provide account information and undergo account verification steps. Afterward, users can easily make credit card payments through our application.
 
-## Mua Sắm Thanh Toán Riêng Tư
+## Private Shopping Payments
 
-Chức năng này giúp người dùng thực hiện mua sắm trực tuyến mà không lo lắng về việc tiết lộ thông tin cá nhân. Mọi giao dịch mua sắm đều được thực hiện một cách an toàn và bảo mật.
-
-
-
-
+This feature enables users to make online purchases without worrying about disclosing personal information. All shopping transactions are conducted safely and securely.
